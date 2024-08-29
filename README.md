@@ -1,0 +1,1 @@
+In this personal project, I intend to web scrape book details from an online website using Scrapy. The focus is on extracting key information like titles, authors, genres, and prices, and organizing the data into a structured format. This project highlights my skills in web scraping and data extraction using Python.
